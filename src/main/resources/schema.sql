@@ -1,0 +1,1 @@
+create table customer(id numeric, name varchar);
